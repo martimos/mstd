@@ -1,3 +1,3 @@
-pub(crate) fn _print(_args: core::fmt::Arguments) {
+pub fn _print(_args: core::fmt::Arguments) {
     unimplemented!()
 }
